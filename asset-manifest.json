@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf91df42.css",
+    "main.js": "/static/js/main.b1a0aa8b.js",
+    "static/media/Na_June_67.jpg": "/static/media/Na_June_67.e34d44fc212186920b16.jpg",
+    "static/media/background.jpg": "/static/media/background.0ce2256e2d26d963ec16.jpg",
+    "index.html": "/index.html",
+    "main.bf91df42.css.map": "/static/css/main.bf91df42.css.map",
+    "main.b1a0aa8b.js.map": "/static/js/main.b1a0aa8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf91df42.css",
+    "static/js/main.b1a0aa8b.js"
+  ]
+}
